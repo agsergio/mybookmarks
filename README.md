@@ -84,7 +84,7 @@ My bookmark pages have been messy. So I created this .md to store them more effi
 # Tools
 
 - [ISPTools - Ferramentas para profissionais de rede e infraestrutura](<http://www.isptools.com.br/ping#233!0!201.20.29.212>)
-- [Online Ping, Traceroute, DNS lookup, WHOIS, Port check, Reverse lookup, Proxy checker, Bandwidth meter, Network calculator, Network mask calculator, Country by IP, Unit converter](<http://ping.eu/>
+- [ping.eu](ping.eu)
 - [Online IP Subnet Calculator](<http://www.subnet-calculator.com/>)
 - [BGPStream](<https://bgpstream.com/>)
 - [The caiu Archives](<https://eng.registro.br/pipermail/caiu/>)
@@ -104,52 +104,30 @@ My bookmark pages have been messy. So I created this .md to store them more effi
 
 # Learn New Language
 
-**English**
+## English
 
-- [BBC Learning English - 6 Minute English](<http://www.bbc.co.uk/learningenglish/english/features/6-minute-english>)
+1. [BBC Learning English - 6 Minute English](<http://www.bbc.co.uk/learningenglish/english/features/6-minute-english>)
+2. [Pronunciation of ED in English](<https://www.grammar.cl/english/pronunciation-ed.htm>)
+3. [Grammar Lab](<https://grammar.ctx.ef.com/determiners/articles>)
+4. [Definite and Indefinite Articles (a, an, the) - TIP Sheets - Butte College](<http://www.butte.edu/departments/cas/tipsheets/grammar/articles.html>)
+5. [Homegrown Handouts | Writing Center | San Jose State University](<http://www.sjsu.edu/writingcenter/handouts/>)
+6. [Clear English Corner | American English Pronunciation Resources](<https://www.clearenglishcorner.com/>)
+7. [Rachel's English Academy](<https://www.rachelsenglishacademy.com/>)
+8.  [B1-B2 grammar | LearnEnglish](<https://learnenglish.britishcouncil.org/grammar/b1-b2-grammar>)
 
-- [Pronunciation of ED in English](<https://www.grammar.cl/english/pronunciation-ed.htm>)
+## Spanish
 
-- [Grammar Lab](<https://grammar.ctx.ef.com/determiners/articles>)
+1. [Spanish for Beginners. The Complete Method. Level 1](<https://cisco.udemy.com/course/el-metodo-spanish-1/learn/lecture/7783476?start=0#overview>)
+2. [Seda College Online | 2021 - SEDA College Online - Estude Inglês na Melhor Escola Online!](<https://sedacollegeonline.com/>)
+3. [The 8 Best Online Spanish Classes of 2021](<https://www.thebalancecareers.com/best-online-spanish-classes-5025089>)
+4. [Language Trainers Portugal](<https://www.languagetrainers.pt/precos.php>)
+5. [Lingoda - Online Language School](<https://learn.lingoda.com/en/account/internal-store>)
+6. [Espanhol | ILNOVA](<https://ilnova.fcsh.unl.pt/espanhol/#1595258325605-7e40854f-2ee4>)
+7. [Free Spanish Tutorials: Basic Spanish Phrases, Vocabulary, and Grammar](<https://ielanguages.com/spanish.html>)
 
-- [Definite and Indefinite Articles (a, an, the) - TIP Sheets - Butte College](<http://www.butte.edu/departments/cas/tipsheets/grammar/articles.html>)
+## General
 
-- [Homegrown Handouts | Writing Center | San Jose State University](<http://www.sjsu.edu/writingcenter/handouts/>)
-
-- [Clear English Corner | American English Pronunciation Resources](<https://www.clearenglishcorner.com/>)
-
-- [Rachel's English Academy](<https://www.rachelsenglishacademy.com/>)
-
-- [Duolingo - Learn Russian](<https://www.duolingo.com/learn>)
-
-**Spanish**
-
-- [Spanish for Beginners. The Complete Method. Level 1](<https://cisco.udemy.com/course/el-metodo-spanish-1/learn/lecture/7783476?start=0#overview>)
-
-- [Seda College Online | 2021 - SEDA College Online - Estude Inglês na Melhor Escola Online!](<https://sedacollegeonline.com/>)
-
-- [11 Melhores Cursos Online de Espanhol (Grátis e Pagos) | Aprenda Online](<https://foradazonadeconforto.com/cursos-online/11-melhores-cursos-online-de-espanhol-gratis-e-pagos/>)
-
-- [The 8 Best Online Spanish Classes of 2021](<https://www.thebalancecareers.com/best-online-spanish-classes-5025089>)
-
-- [Language Trainers Portugal](<https://www.languagetrainers.pt/precos.php>)
-
-- [Lingoda - Online Language School](<https://learn.lingoda.com/en/account/internal-store>)
-
-- [Espanhol | ILNOVA](<https://ilnova.fcsh.unl.pt/espanhol/#1595258325605-7e40854f-2ee4>)
-
-- [Free Spanish Tutorials: Basic Spanish Phrases, Vocabulary, and Grammar](<https://ielanguages.com/spanish.html>)
-
-- **Escola de Linguas**
-
-- [🌐 italki - Best Language Learning with Certified Tutors & Group Courses](<https://www.italki.com/en>)
-
-- **Languages**
-
-- [Loecsen – Learn a language easily | 50 languages](<https://www.loecsen.com/en>)
-
-- [Learn a New Language. Free. Simple. No Sign-Up](<https://www.lingohut.com/en>)
-
-- [French Words | Words in French](<https://www.learnalanguage.com/learn-french/french-words/>)
-
-- [B1-B2 grammar | LearnEnglish](<https://learnenglish.britishcouncil.org/grammar/b1-b2-grammar>)
+1. [🌐 italki - Best Language Learning with Certified Tutors & Group Courses](<https://www.italki.com/en>)
+2. [Loecsen – Learn a language easily | 50 languages](<https://www.loecsen.com/en>)
+3. [Learn a New Language. Free. Simple. No Sign-Up](<https://www.lingohut.com/en>)
+4. [French Words | Words in French](<https://www.learnalanguage.com/learn-french/french-words/>)
