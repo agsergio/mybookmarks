@@ -17,10 +17,23 @@ My bookmark pages have been messy. So I created this .md to store them more effi
 3. [Developer Roadmap](https://roadmap.sh)
 4. [Code Crafters Challenges](https://app.codecrafters.io/catalog)
 5. [DevDocs IO](https://devdocs.io/)
+6. [Visual Algo ](https://visualgo.net/en)
+7. [MIT Introduction to Algorithms](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/download/)
+8. [designgurus.io](https://www.designgurus.io/courses)
+9. [Coding Chalenges](https://codingchallenges.fyi/)
+
 
 **Networking**
 1. [DevNet Netprog](https://github.com/CiscoDevNet/netprog_basics/tree/master)
 2. [P4](https://opennetworking.org/p4/)
+3. [tcpdump repo](https://github.com/the-tcpdump-group/tcpdump)
+
+# Engineering Blogs
+
+1. [Engineering Blogs](https://github.com/JohnCrickett/SystemDesign/tree/main/engineering-blogs)
+2. [Network Engineering SE](https://networkengineering.stackexchange.com/)
+3. [dev.to](dev.to)
+
 
 # Books
 
