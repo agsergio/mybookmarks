@@ -12,18 +12,22 @@ My bookmark pages have been messy. So I created this .md to store them more effi
 
 # Coding
 
-1. [Project Based Learning](https://github.com/practical-tutorials/project-based-learning?tab=readme-ov-file#go)
+1. [Developer Roadmap](https://roadmap.sh)
 2. [Awesome Learn to Code Links](https://github.com/mike-north/awesome-learn-to-code)
-3. [Developer Roadmap](https://roadmap.sh)
-4. [Code Crafters Challenges](https://app.codecrafters.io/catalog)
-5. [DevDocs IO](https://devdocs.io/)
-6. [Visual Algo ](https://visualgo.net/en)
-7. [MIT Introduction to Algorithms](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/download/)
-8. [designgurus.io](https://www.designgurus.io/courses)
-9. [Coding Chalenges](https://codingchallenges.fyi/)
+3. . [MIT Introduction to Algorithms](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/download/)
+4.  [Visual Algo ](https://visualgo.net/en)
 
+## Tools
+1. [DevDocs IO](https://devdocs.io/)
 
-**Networking**
+## Projects
+
+1. [Project Based Learning](https://github.com/practical-tutorials/project-based-learning?tab=readme-ov-file#go)
+2. [Code Crafters Challenges](https://app.codecrafters.io/catalog)
+3. [Coding Chalenges](https://codingchallenges.fyi/)
+
+## Networking
+
 1. [DevNet Netprog](https://github.com/CiscoDevNet/netprog_basics/tree/master)
 2. [P4](https://opennetworking.org/p4/)
 3. [tcpdump repo](https://github.com/the-tcpdump-group/tcpdump)
@@ -48,6 +52,7 @@ My bookmark pages have been messy. So I created this .md to store them more effi
 3. [Coding Interview Patterns Course](https://www.educative.io/courses/grokking-coding-interview-in-python)
 4. [PracHub Interview Questions](https://prachub.com/questions)
 5. [Byte Byte Go](https://bytebytego.com/guides/computer-fundamentals/)
+6. 1. [designgurus.io](https://www.designgurus.io/courses)
 
 
 # News
