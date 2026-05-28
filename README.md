@@ -32,6 +32,9 @@ My bookmark pages have been messy. So I created this .md to store them more effi
 2. [P4](https://opennetworking.org/p4/)
 3. [tcpdump repo](https://github.com/the-tcpdump-group/tcpdump)
 
+# AI
+1. [Build your own AI lab](https://github.com/santosomar/build-your-ai-lab)
+
 # Engineering Blogs
 
 1. [Engineering Blogs](https://github.com/JohnCrickett/SystemDesign/tree/main/engineering-blogs)
@@ -42,7 +45,7 @@ My bookmark pages have been messy. So I created this .md to store them more effi
 # Books
 
 1. [5 Books that every Embeeded System Engineer should read](https://www.linkedin.com/pulse/5-books-every-embedded-software-engineer-should-read-veerabahu/) - About C, Unix, Kernel and Protocols.
-2. [Free Programming Books](https://github.com/EbookFoundation/free-programming-books - Tons of programming books for free.
+2. [Free Programming Books](https://github.com/EbookFoundation/free-programming-books) - Tons of programming books for free.
 
 
 # Interview Prep
