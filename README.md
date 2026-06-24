@@ -34,6 +34,7 @@ My bookmark pages have been messy. So I created this .md to store them more effi
 
 # AI
 1. [Build your own AI lab](https://github.com/santosomar/build-your-ai-lab)
+2. [Llm Banchmarks - llm-stats.com](https://llm-stats.com/)
 
 # Engineering Blogs
 
