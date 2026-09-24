@@ -32,6 +32,9 @@ My bookmark pages have been messy. So I created this .md to store them more effi
 2. [P4](https://opennetworking.org/p4/)
 3. [tcpdump repo](https://github.com/the-tcpdump-group/tcpdump)
 
+4. [awesome-sdn](https://github.com/sdnds-tw/awesome-sdn)
+5. [awesome-network-automation](https://github.com/networktocode/awesome-network-automation)
+
 # AI
 1. [Build your own AI lab](https://github.com/santosomar/build-your-ai-lab)
 2. [Llm Banchmarks - llm-stats.com](https://llm-stats.com/)
